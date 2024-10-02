@@ -32,3 +32,5 @@ win32/Win32/
 win32/*/Win32/
 win32/*/ARM/
 win32/ARM/
+win32/*/ARM64/
+win32/ARM64/
